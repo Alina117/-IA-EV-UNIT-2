@@ -1,0 +1,123 @@
+body{
+	width:1000px;
+	align=center;
+	margin:0 auto;
+    }
+
+h1 {
+     border-style:solid;
+	 border-color:black;
+	 border-width: 5px;
+	 background-color:rgb(193, 152, 139);
+	 color:rgb(230, 0, 0);
+	 font-size: 35px;
+	 font-style:italic;
+	 font-family: Arial black;
+	 }
+
+h4
+{
+   text-align: right;
+   color: rgb(230, 184, 0);
+   font-family: Arial;
+   text-decoration:underline;
+}
+
+h2
+{
+   text-align: right;
+   color: rgb(153, 102, 51);
+   text-decoration:underline;
+}
+
+table, tr, td, th{
+	text-align: center;
+   border: 3px solid rgb(230, 0, 0);
+   padding:2px;
+   margin-left:auto;
+   table-layout:fixed;
+   width: 70%;
+   border-collapse: collapse;
+}
+ol{
+list-style-type:upper-roman;
+}
+
+ul{
+    list-style-type: none;
+}
+
+ #structura {
+    background-color :rgb(242, 242, 242);
+    border: 2px solid rgb(230, 0, 0);
+	text-align:left;
+}
+
+#tabel{
+text-align:right;}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity:0.7;
+    border-radius: 8px;
+}
+
+h3{
+	text-align: center;
+    color: rgb(153, 102, 51);
+    font-size: 25px;
+	text-decoration:underline;}
+
+p{
+	text-align: left;
+    color:rgb(153, 102, 51);
+    font-size: 25px;
+    font-weight:bold;
+	text-decoration:underline;
+}
+
+li{
+    font-family: Calibri;
+    font-size:15px;}
+
+h5{
+	text-align: left;
+    color:rgb(153, 102, 51);
+	font-size: 25px;
+font-weight: bold;
+text-decoration:underline;}
+
+h6{
+	text-align: left;
+    color:rgb(153, 102, 51);
+	font-size: 25px;
+font-weight: bold;
+text-decoration:underline;}
+
+
+.radio {
+background-color: rgb(82, 122, 122) ;
+  height: 15px;
+  width: 15px;
+  border-style: solid;
+  border-width: 3px;
+  border-color: white;
+  border-radius: 50%;
+  
+}
+.slide
+{
+	border: 200px solid rgb(82, 122, 122);
+	border-bottom: 30px solid rgb(82, 122, 122);
+	border-top: 50px solid rgb(82, 122, 122);
+    border-radius: 30px;
+}
+
+
+	
+
+
+
+
